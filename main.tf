@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-west-1"  # Spécifie la région, modifie-la si nécessaire
+  region = "us-west-5"  # Spécifie la région, modifie-la si nécessaire
 }
 
 variable "vpc_cidr" {
